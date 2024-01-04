@@ -20,16 +20,6 @@ This project focuses on three main aspects:
 
 - The Supply Ratio analysis helped in assessing the efficiency of the system by examining the rides completed per active driver per hour.
 
-## **📊 Visualizations**
-
-A few visualizations from the analysis:
-
-- Demand-Supply Scatter Plot:
-  ![Demand-Supply](insert_demand_supply_plotly_image_link_here)
-
-- Supply Ratio Scatter Plot:
-  ![Supply-Ratio](insert_supply_ratio_plotly_image_link_here)
-
 ## **💻 Tools Used**
 
 - Python
@@ -40,12 +30,12 @@ A few visualizations from the analysis:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/rides-data-analysis.git
+   git clone https://github.com/abhitechg/Demand-and-Supply-Analysis.git
    ```
 
 2. Open and run the Jupyter notebook or Python script to reproduce the analysis.
    ```bash
-   cd rides-data-analysis
+   cd Demand-and-Supply-Analysis
    jupyter notebook analysis.ipynb
    ```
 
